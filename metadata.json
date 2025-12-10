@@ -1,0 +1,5 @@
+{
+  "name": "Meettojo",
+  "description": "A premium dating web application with swipe-to-match, real-time chat, and wallet features. Built as a PWA to simulate a native mobile experience.",
+  "requestFramePermissions": []
+}
